@@ -6,4 +6,7 @@ let a=5;
 let c=7;
 let b=inc(a);
 let d=inc(c);
-console.log(b);
+
+// adding var b and d
+let sum=b+d;
+console.log(sum);
