@@ -1,5 +1,11 @@
+// pre inc
 function inc(a){
     return ++a;
+}
+
+// post inc
+function postinc(a){
+    return a++;
 }
 
 let a=5;
